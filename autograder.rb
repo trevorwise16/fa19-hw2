@@ -1,4 +1,4 @@
-require './hw1'
+require './hw2'
 
 def check_squared_sum
   first_sum = squared_sum 1, 2
