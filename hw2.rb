@@ -43,7 +43,7 @@ def scrabble(word)
     w: 4,
     x: 8,
     y: 4,
-    z: 10,
+    z: 10
   }
   # Q5 CODE HERE
 end
